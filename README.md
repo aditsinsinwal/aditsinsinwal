@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aditsinsinwal
 - 👀 I’m interested in Statistics
 - 🌱 I’m currently learning Stochastic Processes
-- 📫 You can reach me by asinsinw@uwaterloo.ca
+- 📫 You can reach me at asinsinw@uwaterloo.ca
 - 😄 Pronouns: He/him
 
 <!---
