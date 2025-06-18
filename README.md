@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aditsinsinwal
 - 👀 I’m interested in Statistics
-- 🌱 I’m currently learning Stochastic Processes
+- 🌱 I’m currently learning Sampling and Regression
 - 📫 You can reach me at asinsinw@uwaterloo.ca
 - 😄 Pronouns: He/him
 
